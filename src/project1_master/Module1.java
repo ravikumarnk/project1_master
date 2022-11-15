@@ -14,6 +14,11 @@ public class Module1 {
 		System.out.println("adding ... by developer/ s .. ");
 	}
 	
+	public void method3()
+	{
+		System.out.println("adding ... by developer/ s .. ");
+	}
+	
 	
 	
 	
