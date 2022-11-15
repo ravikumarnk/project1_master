@@ -9,5 +9,13 @@ public class Module1 {
 	}
 	 
 	
+	public void method2()
+	{
+		System.out.println("adding ... by developer/ s .. ");
+	}
+	
+	
+	
+	
 	
 }
